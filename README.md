@@ -11,7 +11,7 @@
 
 ### What did i do?
 - I compiled the source code of DragonFly and made some distributable binary that is compatible with multiple platforms.
-- 
+
 ### What's the benefit of that?
 - Now, you don't need to download the Golang runtime and manually compile with go run main.go. All you need to do is easily double-click/use the terminal to run the corresponding version of the binary, and you can easily launch the DragonFly server.
   
