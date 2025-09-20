@@ -1,11 +1,11 @@
 ## DragonFly Binary Edition
 
-[![GitHub release](https://img.shields.io/github/v/release/FanYaRou/dragonfly-binary?style=flat-square)]()
-[![Downloads](https://img.shields.io/github/downloads/FanYaRou/dragonfly-binary/total?style=flat-square)]()
-[![Stars](https://img.shields.io/github/stars/FanYaRou/dragonfly-binary?style=flat-square)]()
-[![Forks](https://img.shields.io/github/forks/FanYaRou/dragonfly-binary?style=flat-square)]()
-[![Issues](https://img.shields.io/github/issues/FanYaRou/dragonfly-binary?style=flat-square)]()
-[![License](https://img.shields.io/github/license/FanYaRou/dragonfly-binary?style=flat-square)]()
+[![GitHub release](https://img.shields.io/github/v/release/GongSunFangYun/dragonfly-binary?style=flat-square)]()
+[![Downloads](https://img.shields.io/github/downloads/GongSunFangYun/dragonfly-binary/total?style=flat-square)]()
+[![Stars](https://img.shields.io/github/stars/GongSunFangYun/dragonfly-binary?style=flat-square)]()
+[![Forks](https://img.shields.io/github/forks/GongSunFangYun/dragonfly-binary?style=flat-square)]()
+[![Issues](https://img.shields.io/github/issues/GongSunFangYun/dragonfly-binary?style=flat-square)]()
+[![License](https://img.shields.io/github/license/GongSunFangYun/dragonfly-binary?style=flat-square)]()
 
 <img height="310" alt="image" src="https://user-images.githubusercontent.com/16114089/121805566-0cd81280-cc4c-11eb-9b7d-b5f8a6db4f8d.png" align="right">
 
