@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set ANDROID_NDK_HOME=C:\Users\bilis\Desktop\go1.24.4.windows-amd64\go\bin\android-ndk-r27c-windows\android-ndk-r27c
+set ANDROID_NDK_HOME=path/to/android/ndk
 
 :: Clean output directory
 set OUTPUT_DIR=build
