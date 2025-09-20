@@ -1,0 +1,9 @@
+First, please download the Android NDK and Golang SDK
+Second, edit build.bat and change the path after ANDROID_NDK_HOME to the location of the NDK you downloaded
+Then, make sure the Golang SDK has been added to the system environment variables
+Finally, run build.bat and then check if the binary files for each platform are successfully built in the build folder
+
+e.g.
+-> You have set ANDROID_NDK_HOME=D:\androidndk\android-ndk-r27c-windows\android-ndk-r27c
+-> Then you have successfully installed the Golang SDK and added it to the system variables
+-> You ran build.bat and then checked the build folder for the DragonFly binaries for various platforms
