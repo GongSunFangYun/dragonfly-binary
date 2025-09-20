@@ -18,6 +18,9 @@
 ### How many platforms have binaries been made so far?
 - Currently, I have built the DragonFly executable for Windows, Linux, MacOS and Android, you can find what you love, choose the platform you want to run the DragonFly server, and run it!
 
+### How should I build DragonFlu multi-platform binaries by myself?
+- Please refer to ```how-to-build.txt```, download the corresponding SDK and NDK, modify ```build.bat```, and then proceed with the build operation.
+
 #### Support Platform
 | Platform       | File                          |
 |----------------|-------------------------------|
